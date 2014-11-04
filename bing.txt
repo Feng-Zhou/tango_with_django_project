@@ -1,0 +1,7 @@
+URL:
+
+https://api.datamarket.azure.com/Bing/Search/v1/Web?Query=%27rango%27
+
+Key:
+
+XSFP2FUYmIv0F1fjhVCEZ/tQMJRvN+T1ltFifWJn2+A
